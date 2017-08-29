@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Habit Tracker App</string>
+
+    <!-- Label for overflow menu option that inserts fake pet data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Title for the activity to add a new habit -->
+    <string name="editor_activity_title_new_habit">Add a Habit</string>
+
+    <!-- Label for editor menu option to save pet and leave editor  -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for Habit Name information in the editor -->
+    <string name="category_habit">Habit</string>
+
+    <!-- Label for Frequency information in the editor -->
+    <string name="category_frequency">Frequency</string>
+
+    <!-- Label for Habit Started Date information in the editor  -->
+    <string name="category_started">Started Date</string>
+
+    <!-- Label for Duration information in the editor ] -->
+    <string name="category_duration">Duration</string>
+
+    <!-- Label for Notes information in the editor -->
+    <string name="category_notes">Notes</string>
+
+    <!-- Text hint for habit name field in the editor -->
+    <string name="hint_habit_name">Habit Name</string>
+
+    <!-- Text hint for Habit Started field in the editor -->
+    <string name="hint_habit_started">Habit Started</string>
+
+    <!-- Text hint for duration field in the editor -->
+    <string name="hint_habit_duration">Duration</string>
+
+    <!-- Text hint for Notes field in the editor -->
+    <string name="hint_habit_notes">Write a Note</string>
+
+    <!-- Label for dropdown menu option if the habit Frequency is unknown -->
+    <string name="frequency_unknown">Unknown</string>
+
+    <!-- Label for dropdown menu option if the habit Frequency is Daily -->
+    <string name="frequency_daily">Daily</string>
+
+    <!-- Label for dropdown menu option if the habit Frequency is Weekly -->
+    <string name="frequency_weekly">Weekly</string>
+
+    <!-- Label for dropdown menu option if the habit Frequency is Monthly -->
+    <string name="frequency_monthly">Monthly</string>
+
+    <!-- Label for dropdown menu option if the habit duration is Minutes -->
+    <string name="duration_min">Min</string>
+
+    <!-- Label for dropdown menu option if the habit duration is Hours -->
+    <string name="duration_hr">Hr</string>
+
+</resources>
